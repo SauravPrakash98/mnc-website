@@ -37,14 +37,14 @@ File: Layout CSS
 
 #header #logo{margin:30px 0 0 0;}
 #header #logo h1{margin:0; padding:0; font-size:22px;}
-
+.center {text-align : center;}
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
 #pageintro{padding:250px 0;}
 
 #pageintro article{display:block; max-width:75%;}
-#pageintro .heading{margin-bottom:50px; font-size:3rem;}
+#pageintro .heading{margin-bottom:5px; font-size:8rem; text-align:center; margin-top:250px;}
 #pageintro p{font-size:1.1rem; line-height:2;}
 #pageintro footer{margin-top:50px;}
 
